@@ -16,4 +16,4 @@ Bu projede yer alan tüm içerik **telif hakkıyla korunmaktadır**.
 Kodları kullanmak istiyorsanız, yazılı izin almanız gerekir.  
 Ancak **izin verilse dahi kodların değiştirilmesine ve paylaşılmasına izin yoktur**.
 
-© 2025 Emir – All rights reserved.
+© 2025 Warden Zone Studio – All rights reserved.
