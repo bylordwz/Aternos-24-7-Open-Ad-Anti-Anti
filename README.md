@@ -1,4 +1,4 @@
-# Proje Adı
+# Aternos 24/7
 
 Bu proje **Warden Zone Studio** tarafından geliştirilmiştir.  
 Kodlar yalnızca **görüntüleme ve inceleme amacıyla** paylaşılmıştır.
